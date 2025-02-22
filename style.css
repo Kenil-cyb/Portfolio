@@ -87,17 +87,6 @@ footer {
     margin-top: 20px;
     animation: slideUp 1s ease-in-out;
 }
-
-/* Typing Effect for Name */
-/* .typing {
-    font-size: 28px;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid white;
-    width: 0;
-    animation: typing 2s steps(30, end) forwards, blink 0.75s step-end infinite;
-} */
-
 /* Animations */
 @keyframes fadeIn {
     from { opacity: 0; }
